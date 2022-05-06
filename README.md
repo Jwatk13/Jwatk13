@@ -1,5 +1,6 @@
-### Hi there, my name is Joseph. I am pretty new to the dev community right now, it's only been a few months since I started this journey. 
-I look forward to each new experience and I'm always ready to keep learing new things! 👋
+### Hi there, my name is Joseph. 👋 
+
+I am pretty new to the dev community right now, but I know my journey will continue. So, I look forward to each new experience and I'm always ready to keep learing new things!
 
 I am currently working through a full stack web development program at BloomTech where I have been learning and working with JavaScript, HTML, and CSS.
 
