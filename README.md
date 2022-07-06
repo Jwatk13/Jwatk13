@@ -2,7 +2,7 @@
 
 I am pretty new to the dev community right now, but as I continue on my journey I look forward to each new experience and I'm always ready to keep learing new things!
 
-I am currently working through a full stack web development program at BloomTech where I have been learning and working with JavaScript, HTML, CSS, and JQuery.
+I am currently working through a full stack web development program at BloomTech where I have been learning and working with JavaScript, HTML, CSS, JQuery, React, and Redux.
 
 How to reach me: My email is josephxwatkins@gmail.com
 
