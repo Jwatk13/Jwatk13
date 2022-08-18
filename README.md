@@ -1,6 +1,6 @@
 ### Hi there, my name is Joseph. 👋 
 
-I am pretty new to the dev community right now, but as I continue on my journey I look forward to each new experience and I'm always ready to keep learing new things!
+I am pretty new to the dev community right now, but as I continue on my journey I look forward to each new experience and I'm always ready to keep learing and improving!
 
 I am currently working through a full stack web development program at BloomTech where I have been learning and working with JavaScript, HTML, CSS, JQuery, React, and Redux in frontend dev; and Express, Jest, JWT's, BCrypt, Knex, and SQLite3 in backend dev.
 
