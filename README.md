@@ -1,10 +1,10 @@
 ### Hi there, my name is Joseph. 👋 
 
-I am pretty new to the dev community right now, but as I continue on my journey I look forward to each new experience and I'm always ready to keep learing and improving!
+Currently, I am looking for a job as a Junior Software Engineer/ Full Stack Developer. Looking forward to building valuable relationships and learning continuously as I pursue this career! 
 
-I am currently working through a full stack web development program at BloomTech where I have been learning and working with JavaScript, HTML, CSS, JQuery, React, and Redux in frontend dev; and Express, Jest, JWT's, BCrypt, Knex, and SQLite3 in backend dev.
+Recently, I have contributed to Full-Stack web development applications with functional components, RESTful API integrations, and user authenticated features for secure user login accessibility. Feel free to view my posted projects below or follow me on GitHub. 
 
-How to reach me: My email is josephxwatkins@gmail.com
+Feel free to reach out me: My email is josephxwatkins@gmail.com
 
 
 <!--
